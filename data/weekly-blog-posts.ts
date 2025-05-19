@@ -700,7 +700,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
   },
   {
     id: 12,
-    title: "This Week in Photography: Long Exposure Magic",
+    title: "OJT Ep. 12: Last Week",
     excerpt: "Using extended exposure times to create ethereal effects and reveal the passage of time in still images.",
     coverImage: "/placeholder.svg?height=600&width=1200&text=Long Exposure",
     date: "February 25, 2024",
