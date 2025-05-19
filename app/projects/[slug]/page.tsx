@@ -68,16 +68,12 @@ export default function ProjectPage({ params }: { params: { slug: string } }) {
         {/* Project content - placeholder content */}
         <article className="prose prose-gray max-w-none mb-12">
           <p>
-            This project explores the intersection of form, space, and visual narrative through a series of carefully
-            composed images. Each photograph is an invitation to see the world through a different lens, finding beauty
-            in simplicity and meaning in the mundane.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           </p>
-
+          <br></br>
           <h2>Project Background</h2>
           <p>
-            The concept for this series emerged from a fascination with how minimal elements can create powerful visual
-            statements. Inspired by the work of photographers like Hiroshi Sugimoto and Rinko Kawauchi, this project
-            seeks to distill scenes to their essential elements.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           </p>
 
           <div className="grid grid-cols-2 gap-4 my-8">
@@ -101,14 +97,11 @@ export default function ProjectPage({ params }: { params: { slug: string } }) {
 
           <h2>Process and Approach</h2>
           <p>
-            Each image in this series was created with careful attention to composition, light, and timing. Working
-            primarily with natural light, I sought moments when form and shadow aligned to create visual harmony.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           </p>
 
           <p>
-            The project spanned several months, allowing me to revisit locations under different conditions and refine
-            my approach to each subject. This iterative process was essential to developing a cohesive visual language
-            throughout the series.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           </p>
 
           <div className="relative h-80 rounded-lg overflow-hidden my-8">
@@ -122,14 +115,11 @@ export default function ProjectPage({ params }: { params: { slug: string } }) {
 
           <h2>Exhibition and Reception</h2>
           <p>
-            This work was first exhibited at the Contemporary Art Gallery in New York in Spring 2024. The installation
-            featured large-format prints arranged to create a dialogue between images, inviting viewers to discover
-            connections and contrasts.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           </p>
-
+          <br></br>
           <p>
-            The project has been featured in several publications, including Photography Monthly and Visual Arts Review,
-            where critics noted its "thoughtful approach to composition" and "meditative quality."
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           </p>
         </article>
 
@@ -139,19 +129,19 @@ export default function ProjectPage({ params }: { params: { slug: string } }) {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
               <p className="text-sm text-gray-600 mb-1">Year</p>
-              <p className="text-base text-gray-900">2023-2024</p>
+              <p className="text-base text-gray-900">2025</p>
             </div>
             <div>
-              <p className="text-sm text-gray-600 mb-1">Location</p>
-              <p className="text-base text-gray-900">Various locations, USA</p>
+              <p className="text-sm text-gray-600 mb-1">Lorem Ipsum</p>
+              <p className="text-base text-gray-900">Lorem Ipsum</p>
             </div>
             <div>
-              <p className="text-sm text-gray-600 mb-1">Medium</p>
-              <p className="text-base text-gray-900">Digital and analog photography</p>
+              <p className="text-sm text-gray-600 mb-1">Lorem Ipsum</p>
+              <p className="text-base text-gray-900">Lorem Ipsum</p>
             </div>
             <div>
-              <p className="text-sm text-gray-600 mb-1">Exhibition</p>
-              <p className="text-base text-gray-900">Contemporary Art Gallery, New York</p>
+              <p className="text-sm text-gray-600 mb-1">Lorem Ipsum</p>
+              <p className="text-base text-gray-900">Lorem Ipsum</p>
             </div>
           </div>
         </div>

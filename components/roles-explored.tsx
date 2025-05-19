@@ -25,7 +25,7 @@ const roles: Role[] = [
   },
   {
     title: "Presentation Designer",
-    description: "Created slide decks and visual materials for meetings and department events, using consistent branding and layout to clearly communicate key information.",
+    description: "Exploring visual storytelling through motion, light, and composition in video projects.",
     icon: <Film className="h-6 w-6" />,
   },
   {

@@ -10,13 +10,13 @@ export default function AboutPage() {
       <header className="mb-12">
         <h1 className="text-3xl font-semibold mb-2 text-gray-900">Maidon</h1>
         <h2 className="text-2xl font-medium mb-2">About</h2>
-        <p className="text-gray-600 max-w-2xl">The story, process, and philosophy behind my creative work.</p>
+        <p className="text-gray-600 max-w-2xl">The story, process, and philosophy behind my work.</p>
       </header>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
-        <div className="relative w-full h-[450px] overflow-hidden rounded-xl shadow-md">
+        <div className="relative w-full h-[770px] overflow-hidden rounded-xl shadow-md">
           <Image
-            src="/placeholder.svg?height=900&width=700&text=Portrait"
+            src="/images/INTERN ID.png?height=900&width=700&text=Portrait"
             alt="Artist portrait"
             fill
             className="object-cover"
@@ -27,25 +27,15 @@ export default function AboutPage() {
           <h3 className="text-xl font-medium text-gray-900 after:content-[''] after:block after:w-12 after:h-0.5 after:bg-gray-900 after:mt-2">
             What I Do
           </h3>
-          <p className="text-base leading-relaxed text-gray-700">
-            I'm a photographer and visual artist specializing in capturing moments that tell compelling stories. My work
-            explores the relationship between light, composition, and narrative, creating visual experiences that invite
-            viewers to see the world from new perspectives.
+                    <p className="text-base leading-relaxed text-gray-700">
+            During my internship at DOST V, I explored multiple creative and technical roles, including photography, media production, and system development. I was primarily involved in documenting events, capturing real-time moments through photography, and supporting media coverage as part of the S&T promotion team.
           </p>
           <p className="text-base leading-relaxed text-gray-700">
-            Through my photography, I aim to document both the extraordinary and the everyday, finding beauty in
-            unexpected places and revealing the stories that often go unnoticed in our fast-paced world.
+            I also contributed to visual content creation for brochures and digital assets—bridging my interest in design with hands-on experience in communication and public engagement. These tasks helped me understand the importance of storytelling and branding in a government and tech-driven environment.
           </p>
           <p className="text-base leading-relaxed text-gray-700">
-            My images have been featured in galleries across the country and in publications dedicated to visual arts
-            and contemporary photography.
+            My work was featured in internal event coverage and contributed to the successful execution of initiatives like the Innovation Summit 2025. Through these experiences, I developed a stronger sense of how creative visuals support communication, collaboration, and community in the workplace.
           </p>
-          <Link
-            href="/contact"
-            className="inline-flex items-center text-gray-900 border border-gray-300 px-4 py-2 rounded-full mt-4 hover:bg-gray-100 transition-colors"
-          >
-            Get in Touch <ArrowRight className="ml-2 h-4 w-4" />
-          </Link>
         </div>
       </div>
 
@@ -54,7 +44,7 @@ export default function AboutPage() {
 
       <div className="mb-16 bg-gray-50 p-8 rounded-2xl">
         <h3 className="text-xl font-medium text-gray-900 mb-6 after:content-[''] after:block after:w-12 after:h-0.5 after:bg-gray-900 after:mt-2">
-          Exhibitions
+          Attended DOST V Workshop
         </h3>
         <div className="space-y-8">
           <div className="flex flex-col md:flex-row md:items-center gap-6 pb-6 border-b">
@@ -67,11 +57,11 @@ export default function AboutPage() {
               />
             </div>
             <div>
-              <h4 className="text-lg font-medium mb-1 text-gray-900">Visual Narratives</h4>
-              <p className="text-sm text-gray-600 mb-2">March 7 - June 30, 2024</p>
-              <p className="text-sm text-gray-700">Contemporary Art Gallery, New York</p>
+              <h4 className="text-lg font-medium mb-1 text-gray-900">Photography Workshop</h4>
+              <p className="text-sm text-gray-600 mb-2">April 25, 2025</p>
+              <p className="text-sm text-gray-700">Lectured by: Sir Guff</p>
               <p className="text-sm text-gray-600 mt-2">
-                A collection exploring the power of visual storytelling through minimalist composition.
+              Lorem Ipsum
               </p>
             </div>
           </div>
@@ -85,11 +75,11 @@ export default function AboutPage() {
               />
             </div>
             <div>
-              <h4 className="text-lg font-medium mb-1 text-gray-900">Form & Light</h4>
-              <p className="text-sm text-gray-600 mb-2">October 12 - December 15, 2023</p>
-              <p className="text-sm text-gray-700">Modern Art Museum, San Francisco</p>
+              <h4 className="text-lg font-medium mb-1 text-gray-900">CompTIA+ Workshop</h4>
+              <p className="text-sm text-gray-600 mb-2">May 16, 2025</p>
+              <p className="text-sm text-gray-700">Lectured by: Ma'am Sheen</p>
               <p className="text-sm text-gray-600 mt-2">
-                An exploration of how light shapes our perception of form and space.
+              Lorem Ipsum
               </p>
             </div>
           </div>
@@ -103,30 +93,56 @@ export default function AboutPage() {
               />
             </div>
             <div>
-              <h4 className="text-lg font-medium mb-1 text-gray-900">Perspectives</h4>
-              <p className="text-sm text-gray-600 mb-2">May 5 - August 20, 2023</p>
-              <p className="text-sm text-gray-700">International Photography Center, Chicago</p>
+              <h4 className="text-lg font-medium mb-1 text-gray-900">Graphic Design Workshop</h4>
+              <p className="text-sm text-gray-600 mb-2">May 19, 2025</p>
+              <p className="text-sm text-gray-700">Lectured by: Sir Darrel</p>
               <p className="text-sm text-gray-600 mt-2">
-                A series examining how viewpoint transforms ordinary subjects into extraordinary images.
+              Lorem Ipsum
               </p>
             </div>
+            
+          </div>
+          <div className="flex flex-col md:flex-row md:items-center gap-6">
+            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
+              <Image
+                src="/placeholder.svg?height=300&width=400&text=Exhibition 3"
+                alt="Exhibition"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <div>
+            <h4 className="text-lg font-medium mb-1 text-gray-900">(Upcoming Workshop)</h4>
+            <p className="text-sm text-gray-600 mb-2">May 22, 2025</p>
+              <p className="text-sm text-gray-700">Lecture by: Sir Jee</p>
+              <p className="text-sm text-gray-600 mt-2">
+              Lorem Ipsum
+              </p>
+            </div>
+            
+          </div>
+          <div className="flex flex-col md:flex-row md:items-center gap-6">
+            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
+              <Image
+                src="/placeholder.svg?height=300&width=400&text=Exhibition 3"
+                alt="Exhibition"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <div>
+              <h4 className="text-lg font-medium mb-1 text-gray-900">(Upcoming Workshop)</h4>
+              <p className="text-sm text-gray-600 mb-2">May 22, 2025</p>
+              <p className="text-sm text-gray-700">Lecture by: Sir Guff</p>
+              <p className="text-sm text-gray-600 mt-2">
+                Lorem Ipsum
+              </p>
+            </div>
+            
           </div>
         </div>
       </div>
 
-      <div className="bg-gray-900 text-white p-8 rounded-2xl mb-16">
-        <h3 className="text-xl font-medium mb-6 after:content-[''] after:block after:w-12 after:h-0.5 after:bg-white after:mt-2">
-          Contact
-        </h3>
-        <p className="text-base mb-6">For inquiries about exhibitions, prints, or collaborations, please reach out:</p>
-        <p className="text-xl mb-2">contact@maidonstudio.com</p>
-        <Link
-          href="/contact"
-          className="inline-flex items-center text-white border border-white/30 px-4 py-2 rounded-full mt-4 hover:bg-white/10 transition-colors"
-        >
-          Send a Message <ArrowRight className="ml-2 h-4 w-4" />
-        </Link>
-      </div>
 
       {/* Featured Projects */}
       <FeaturedProjects />

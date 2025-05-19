@@ -74,7 +74,7 @@ export default function Home() {
                 </p>
               </div>
               <div className="bg-white p-4 rounded-lg shadow-sm">
-                <h3 className="text-base font-medium mb-2 text-gray-900">Photograpy</h3>
+                <h3 className="text-base font-medium mb-2 text-gray-900">Photography</h3>
                 <p className="text-sm text-gray-600">
                 Creating engaging visual stories through photography, videography, and editing.
                 </p>
