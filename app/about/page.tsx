@@ -143,7 +143,6 @@ export default function AboutPage() {
         </div>
       </div>
 
-
       {/* Featured Projects */}
       <FeaturedProjects />
     </main>

@@ -2,7 +2,6 @@ import Image from "next/image"
 import Link from "next/link"
 import { ArrowLeft, Calendar, Clock, User, Share2, Bookmark, MessageSquare } from "lucide-react"
 import { FeaturedProjects } from "@/components/featured-projects"
-import { NewsletterForm } from "@/components/newsletter-form"
 import { weeklyBlogPosts, getAdjacentPosts, getRelatedPosts } from "@/data/weekly-blog-posts"
 import { notFound } from "next/navigation"
 
@@ -63,17 +62,6 @@ export default function WeeklyBlogPostPage({ params }: { params: { slug: string 
 
         {/* Social sharing and actions */}
         <div className="flex justify-between items-center mb-10 pb-6 border-b">
-          <div className="flex items-center gap-3">
-            <button className="p-2 rounded-full bg-gray-100 hover:bg-gray-200 transition-colors">
-              <Share2 className="h-5 w-5 text-gray-700" />
-            </button>
-            <button className="p-2 rounded-full bg-gray-100 hover:bg-gray-200 transition-colors">
-              <Bookmark className="h-5 w-5 text-gray-700" />
-            </button>
-            <button className="p-2 rounded-full bg-gray-100 hover:bg-gray-200 transition-colors">
-              <MessageSquare className="h-5 w-5 text-gray-700" />
-            </button>
-          </div>
           <div className="flex items-center gap-2">
             <span className="text-sm text-gray-600">Topics:</span>
             {post.topics.map((topic, index) => (
@@ -89,25 +77,6 @@ export default function WeeklyBlogPostPage({ params }: { params: { slug: string 
           <div dangerouslySetInnerHTML={{ __html: post.content || "" }} />
         </article>
 
-        {/* Author bio */}
-        <div className="bg-gray-50 p-6 rounded-xl flex items-center gap-6 mb-12">
-          <div className="relative w-20 h-20 rounded-full overflow-hidden">
-            <Image
-              src="/placeholder.svg?height=200&width=200&text=AM"
-              alt={post.author}
-              fill
-              className="object-cover"
-            />
-          </div>
-          <div>
-            <h3 className="font-medium text-lg text-gray-900 mb-1">{post.author}</h3>
-            <p className="text-gray-600 mb-2">Photography Instructor & Visual Artist</p>
-            <p className="text-sm text-gray-700">
-              Alex has over 10 years of experience in documentary and fine art photography, with work featured in
-              galleries across the country and in publications dedicated to visual arts.
-            </p>
-          </div>
-        </div>
 
         {/* Next/Previous navigation */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
@@ -161,9 +130,6 @@ export default function WeeklyBlogPostPage({ params }: { params: { slug: string 
             ))}
           </div>
         </div>
-
-        {/* Newsletter signup */}
-        <NewsletterForm />
       </div>
 
       {/* Featured Projects */}

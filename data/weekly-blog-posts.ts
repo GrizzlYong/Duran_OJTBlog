@@ -608,48 +608,21 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
   },
   {
     id: 11,
-    title: "OJT Ep. 11: Thoughts",
+    title: "OJT Ep. 11: Lorem Ipsum",
     excerpt:
-      "Composing and lighting compelling still life images that tell stories and showcase objects with intention.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     coverImage: "/placeholder.svg?height=600&width=1200&text=Still Life",
-    date: "March 3, 2024",
+    date: "May, 2025",
     readTime: "8 min read",
     author: "Alex Morgan",
     slug: "creative-still-life",
     topics: ["Still Life", "Composition", "Lighting"],
     content: `
-      <p>Still life photography offers complete creative control over composition, lighting, and subject matter. This week, we're exploring techniques for creating compelling still life images that tell stories and showcase objects with intention.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+
       
-      <h2>Concept and Story</h2>
-      
-      <p>The most engaging still life images go beyond simply documenting objects—they convey mood, suggest narratives, or express ideas. Before arranging your composition, consider what story or feeling you want to communicate through your selection and arrangement of objects.</p>
-      
-      <h2>Composition Considerations</h2>
-      
-      <p>Still life composition involves careful decisions about:</p>
-      
-      <ul>
-        <li><strong>Arrangement</strong> - how objects relate to each other spatially</li>
-        <li><strong>Balance</strong> - distributing visual weight across the frame</li>
-        <li><strong>Negative space</strong> - using empty areas intentionally</li>
-        <li><strong>Lines and shapes</strong> - creating visual pathways and geometric relationships</li>
-        <li><strong>Color relationships</strong> - using harmonious or contrasting color schemes</li>
-      </ul>
-      
-      <h2>Lighting Approaches</h2>
-      
-      <p>Lighting dramatically affects the mood and dimension of still life images:</p>
-      
-      <ul>
-        <li><strong>Soft, diffused light</strong> creates gentle transitions and minimizes texture</li>
-        <li><strong>Hard, directional light</strong> emphasizes texture and creates dramatic shadows</li>
-        <li><strong>Backlighting</strong> creates rim light effects and can make translucent objects glow</li>
-        <li><strong>Window light</strong> provides natural, directional illumination that's easy to work with</li>
-      </ul>
-      
-      <h2>Weekly Exercise</h2>
-      
-      <p>This week, create three still life compositions using the same objects but different lighting approaches. Notice how the mood and emphasis change with each lighting setup.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
       <div class="grid grid-cols-2 gap-4 my-8">
         <div class="relative h-60 rounded-lg overflow-hidden">
@@ -678,76 +651,31 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
         />
       </div>
 
-      <h2>Further Exploration</h2>
+>
 
       <p>
-        As you continue to develop your skills in this area, consider these additional resources and exercises to
-        deepen your understanding:
-      </p>
-
-      <ul>
-        <li>Study the work of photographers who excel in this particular area</li>
-        <li>Practice regularly with specific technical exercises</li>
-        <li>Seek feedback from peers and mentors on your progress</li>
-        <li>Experiment with combining these techniques with other aspects of photography</li>
-      </ul>
-
-      <p>
-        Remember that mastery comes through consistent practice and thoughtful experimentation. Don't be afraid to
-        make mistakes—they're often the most valuable learning opportunities.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
       </p>
     `,
   },
   {
     id: 12,
     title: "OJT Ep. 12: Last Week",
-    excerpt: "Using extended exposure times to create ethereal effects and reveal the passage of time in still images.",
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     coverImage: "/placeholder.svg?height=600&width=1200&text=Long Exposure",
-    date: "February 25, 2024",
-    readTime: "9 min read",
-    author: "Alex Morgan",
+    date: "May 2025",
+    readTime: "3 min read",
+    author: "Maidon Jeho G. Duran",
     slug: "long-exposure-magic",
     topics: ["Technique", "Time", "Motion"],
     content: `
-      <p>Long exposure photography uses extended shutter speeds to create ethereal effects and reveal the passage of time in still images. This week, we're exploring techniques for creating compelling long exposure photographs in various situations.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
       
-      <h2>Essential Equipment</h2>
+     
       
-      <p>Long exposure photography typically requires:</p>
+      <h2>Headline</h2>
       
-      <ul>
-        <li><strong>A sturdy tripod</strong> to keep the camera perfectly still during extended exposures</li>
-        <li><strong>Remote shutter release</strong> to avoid camera shake when triggering the shutter</li>
-        <li><strong>Neutral density (ND) filters</strong> to reduce light entering the lens, allowing longer exposures in bright conditions</li>
-        <li><strong>Patience</strong> - long exposures require waiting and experimentation</li>
-      </ul>
-      
-      <h2>Creative Applications</h2>
-      
-      <p>Long exposure techniques can transform many subjects:</p>
-      
-      <ul>
-        <li><strong>Moving water</strong> becomes silky and ethereal</li>
-        <li><strong>Clouds</strong> show their movement across the sky</li>
-        <li><strong>Urban scenes</strong> with moving lights create colorful streaks</li>
-        <li><strong>Star trails</strong> reveal the earth's rotation</li>
-        <li><strong>Light painting</strong> allows drawing with light sources during exposure</li>
-      </ul>
-      
-      <h2>Technical Considerations</h2>
-      
-      <p>Successful long exposures require attention to several factors:</p>
-      
-      <ul>
-        <li><strong>Calculating exposure</strong> when using ND filters requires understanding filter strength</li>
-        <li><strong>Managing digital noise</strong> which can increase during very long exposures</li>
-        <li><strong>Balancing static and moving elements</strong> for compelling compositions</li>
-        <li><strong>Choosing appropriate shutter speeds</strong> for different effects and subjects</li>
-      </ul>
-      
-      <h2>Weekly Exercise</h2>
-      
-      <p>This week, experiment with different shutter speeds on the same scene containing both static and moving elements. Try exposures ranging from 1 second to several minutes (if your equipment allows) and compare the results.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
       <div class="grid grid-cols-2 gap-4 my-8">
         <div class="relative h-60 rounded-lg overflow-hidden">
@@ -779,20 +707,10 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
       <h2>Further Exploration</h2>
 
       <p>
-        As you continue to develop your skills in this area, consider these additional resources and exercises to
-        deepen your understanding:
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
       </p>
-
-      <ul>
-        <li>Study the work of photographers who excel in this particular area</li>
-        <li>Practice regularly with specific technical exercises</li>
-        <li>Seek feedback from peers and mentors on your progress</li>
-        <li>Experiment with combining these techniques with other aspects of photography</li>
-      </ul>
-
       <p>
-        Remember that mastery comes through consistent practice and thoughtful experimentation. Don't be afraid to
-        make mistakes—they're often the most valuable learning opportunities.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
       </p>
     `,
   },

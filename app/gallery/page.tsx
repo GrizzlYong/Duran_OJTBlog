@@ -14,8 +14,7 @@ export default function GalleryPage() {
     id: i + 1,
     src: `/placeholder.svg?height=600&width=600&text=Gallery Image ${i + 1}`,
     alt: `Gallery image ${i + 1}`,
-    category: i % 3 === 0 ? "Landscape" : i % 3 === 1 ? "Portrait" : "Abstract",
-    week: `Week of ${new Date(2024, 4, 1 + i * 7).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}`,
+    category: i % 3 === 0 ? "DOST V Family" : i % 3 === 1 ? "Event" : "Projects",
   }))
 
   const filteredImages =
@@ -59,7 +58,7 @@ export default function GalleryPage() {
         <h1 className="text-3xl font-semibold mb-2 text-gray-900">Maidon</h1>
         <h2 className="text-2xl font-medium mb-2">Gallery</h2>
         <p className="text-gray-600 max-w-2xl">
-          A curated collection of visual explorations and creative work, updated weekly.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
       </header>
 
@@ -74,27 +73,27 @@ export default function GalleryPage() {
         </button>
         <button
           className={`px-4 py-2 rounded-full text-sm transition-colors ${
-            selectedCategory === "Landscape" ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+            selectedCategory === "DOST V Family" ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
           }`}
-          onClick={() => setSelectedCategory("Landscape")}
+          onClick={() => setSelectedCategory("DOST V Family")}
         >
-          Landscape
+          DOST V Family
         </button>
         <button
           className={`px-4 py-2 rounded-full text-sm transition-colors ${
-            selectedCategory === "Portrait" ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+            selectedCategory === "Event" ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
           }`}
-          onClick={() => setSelectedCategory("Portrait")}
+          onClick={() => setSelectedCategory("Event")}
         >
-          Portrait
+          Event
         </button>
         <button
           className={`px-4 py-2 rounded-full text-sm transition-colors ${
-            selectedCategory === "Abstract" ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+            selectedCategory === "Projects" ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-700 hover:bg-gray-200"
           }`}
-          onClick={() => setSelectedCategory("Abstract")}
+          onClick={() => setSelectedCategory("Projects")}
         >
-          Abstract
+          Projects
         </button>
       </div>
 
