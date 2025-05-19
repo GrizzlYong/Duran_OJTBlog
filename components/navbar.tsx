@@ -29,7 +29,7 @@ export function Navbar() {
     >
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <Link href="/" className="text-2xl font-semibold text-gray-900">
-          yyong_
+          yongg_
         </Link>
 
         {/* Mobile menu button */}

@@ -13,7 +13,7 @@ export default function Home() {
       <header className="mb-12">
         <h1 className="text-3xl font-semibold mb-2 text-gray-900">On-The-Job Training </h1>
         <p className="text-lg text-gray-600 max-w-2xl">
-          Capturing moments and sharing stories through visual storytelling and creative exploration.
+          Capturing moments and sharing experiences during my internship at DOST V.
         </p>
       </header>
 
