@@ -32,7 +32,7 @@ export function WeeklyBlogSection() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div className="relative w-full aspect-square rounded-xl overflow-hidden shadow-md">
+        <div className="relative w-full h-[300px] rounded-xl overflow-hidden shadow-md">
           <Image
             src={latestWeeklyPost.coverImage || "/placeholder.svg"}
             alt={latestWeeklyPost.title}

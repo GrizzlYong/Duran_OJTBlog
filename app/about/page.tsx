@@ -14,7 +14,7 @@ export default function AboutPage() {
       </header>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
-        <div className="relative w-full aspect-square overflow-hidden rounded-xl shadow-md">
+        <div className="relative w-[400px] h-[570px] overflow-hidden rounded-xl shadow-md">
           <Image
             src="/images/INTERN ID.png?height=900&width=700&text=Portrait"
             alt="Artist portrait"
@@ -48,7 +48,7 @@ export default function AboutPage() {
         </h3>
         <div className="space-y-8">
           <div className="flex flex-col md:flex-row md:items-center gap-6 pb-6 border-b">
-            <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-sm">
+            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
               <Image
                 src="/placeholder.svg?height=300&width=400&text=Exhibition 1"
                 alt="Exhibition"
@@ -66,7 +66,7 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="flex flex-col md:flex-row md:items-center gap-6 pb-6 border-b">
-            <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-sm">
+            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
               <Image
                 src="/placeholder.svg?height=300&width=400&text=Exhibition 2"
                 alt="Exhibition"
@@ -84,7 +84,7 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="flex flex-col md:flex-row md:items-center gap-6">
-            <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-sm">
+            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
               <Image
                 src="/placeholder.svg?height=300&width=400&text=Exhibition 3"
                 alt="Exhibition"
@@ -103,7 +103,7 @@ export default function AboutPage() {
             
           </div>
           <div className="flex flex-col md:flex-row md:items-center gap-6">
-            <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-sm">
+            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
               <Image
                 src="/placeholder.svg?height=300&width=400&text=Exhibition 3"
                 alt="Exhibition"
@@ -122,7 +122,7 @@ export default function AboutPage() {
             
           </div>
           <div className="flex flex-col md:flex-row md:items-center gap-6">
-            <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-sm">
+            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
               <Image
                 src="/placeholder.svg?height=300&width=400&text=Exhibition 3"
                 alt="Exhibition"
