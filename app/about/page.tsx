@@ -14,7 +14,7 @@ export default function AboutPage() {
       </header>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
-        <div className="relative w-full h-[770px] overflow-hidden rounded-xl shadow-md">
+        <div className="relative w-[400px] h-[570px] overflow-hidden rounded-xl shadow-md">
           <Image
             src="/images/INTERN ID.png?height=900&width=700&text=Portrait"
             alt="Artist portrait"
