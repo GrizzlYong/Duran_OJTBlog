@@ -56,7 +56,7 @@ export default function WeeklyBlogPostPage({ params }: { params: { slug: string 
         <p className="text-lg text-gray-700 mb-8 leading-relaxed">{post.excerpt}</p>
 
         {/* Featured image */}
-        <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-md mb-10">
+        <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg shadow-md mb-10">
           <Image src={post.coverImage || "images/week 1/W1I3.jpg"} alt={post.title} fill className="object-cover" priority />
         </div>
 
