@@ -25,12 +25,12 @@ const roles: Role[] = [
   },
   {
     title: "Presentation Designer",
-    description: "Exploring visual storytelling through motion, light, and composition in video projects.",
+    description: "Created slide decks and visual materials for meetings and department events, using consistent branding and layout to clearly communicate key information.",
     icon: <Film className="h-6 w-6" />,
   },
   {
     title: "Layout Designer",
-    description: "Guiding creative vision and conceptual development for brands and artistic collaborations.",
+    description: "Assisted in designing print materials such as brochures for events and outreach programs, focusing on clarity, structure, and visual appeal.",
     icon: <Lightbulb className="h-6 w-6" />,
   },
   {
@@ -40,17 +40,17 @@ const roles: Role[] = [
   },
   {
     title: "Photographer",
-    description: "Authoring articles and essays on photographic theory, technique, and visual culture.",
+    description: "Took photos for internal documentation and social media during important events, helping visually represent the agency’s work and impact.",
     icon: <Camera className="h-6 w-6" />,
   },
   {
     title: "Technical Assistant",
-    description: "Selecting and arranging visual works to create meaningful exhibitions and collections.",
+    description: "Helped in setting up computers, installing operating systems, configuring software, and assisting walk-in clients—gaining valuable technical troubleshooting skills.",
     icon: <Palette className="h-6 w-6" />,
   },
   {
     title: "Video Editor",
-    description: "Documenting remote locations and cultural experiences through visual storytelling.",
+    description: "Edited video content for internal presentations and recap videos, enhancing the narrative through transitions, captions, and sound adjustments.",
     icon: <Film className="h-6 w-6" />,
   },
 ]

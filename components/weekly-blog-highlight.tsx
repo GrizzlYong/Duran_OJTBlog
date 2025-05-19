@@ -26,15 +26,9 @@ export function WeeklyBlogHighlight() {
           <h2 className="text-xl uppercase tracking-wider font-medium text-gray-900 after:content-[''] after:block after:w-12 after:h-0.5 after:bg-gray-900 after:mt-2">
             Weekly Blog Series
           </h2>
-          <p className="text-gray-600 mt-2">In-depth explorations of photography concepts and techniques</p>
+          <p className="text-gray-600 mt-2">In-depth explorations of my On-The-Job Training at DOST V</p>
         </div>
         <div className="flex items-center gap-4 mt-4 md:mt-0">
-          <Link
-            href="/weekly-blog"
-            className="inline-flex items-center text-gray-900 border border-gray-300 px-4 py-2 rounded-full hover:bg-gray-100 transition-colors"
-          >
-            Read Latest Post <ArrowRight className="ml-2 h-4 w-4" />
-          </Link>
           <Link
             href="/blog"
             className="inline-flex items-center text-gray-900 border border-gray-300 px-4 py-2 rounded-full hover:bg-gray-100 transition-colors"

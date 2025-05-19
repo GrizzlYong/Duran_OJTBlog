@@ -8,7 +8,7 @@ import Link from "next/link"
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  title: "Midday - Personal Blog",
+  title: "Maidon - Personal Blog",
   description: "A personal blog showcasing photography and creative projects",
     generator: 'v0.dev'
 }
@@ -31,7 +31,7 @@ export default function RootLayout({
                 A creative studio focused on visual storytelling through photography, design, and thoughtful
                 composition.
               </p>
-              <p className="text-sm text-gray-600">© 2024 Midday. All rights reserved.</p>
+              <p className="text-sm text-gray-600">© 2024 Maidon. All rights reserved.</p>
             </div>
             <div>
               <h3 className="text-sm font-medium mb-4 text-gray-900">Navigation</h3>

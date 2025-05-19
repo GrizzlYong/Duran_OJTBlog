@@ -56,7 +56,7 @@ export default function GalleryPage() {
   return (
     <main className="max-w-6xl mx-auto px-4 py-8">
       <header className="mb-12">
-        <h1 className="text-3xl font-semibold mb-2 text-gray-900">Midday</h1>
+        <h1 className="text-3xl font-semibold mb-2 text-gray-900">Maidon</h1>
         <h2 className="text-2xl font-medium mb-2">Gallery</h2>
         <p className="text-gray-600 max-w-2xl">
           A curated collection of visual explorations and creative work, updated weekly.

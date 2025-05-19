@@ -8,7 +8,7 @@ export default function AboutPage() {
   return (
     <main className="max-w-6xl mx-auto px-4 py-8">
       <header className="mb-12">
-        <h1 className="text-3xl font-semibold mb-2 text-gray-900">Midday</h1>
+        <h1 className="text-3xl font-semibold mb-2 text-gray-900">Maidon</h1>
         <h2 className="text-2xl font-medium mb-2">About</h2>
         <p className="text-gray-600 max-w-2xl">The story, process, and philosophy behind my creative work.</p>
       </header>
@@ -119,7 +119,7 @@ export default function AboutPage() {
           Contact
         </h3>
         <p className="text-base mb-6">For inquiries about exhibitions, prints, or collaborations, please reach out:</p>
-        <p className="text-xl mb-2">contact@middaystudio.com</p>
+        <p className="text-xl mb-2">contact@maidonstudio.com</p>
         <Link
           href="/contact"
           className="inline-flex items-center text-white border border-white/30 px-4 py-2 rounded-full mt-4 hover:bg-white/10 transition-colors"
