@@ -56,7 +56,7 @@ export default function WeeklyBlogPostPage({ params }: { params: { slug: string 
         <p className="text-lg text-gray-700 mb-8 leading-relaxed">{post.excerpt}</p>
 
         {/* Featured image */}
-        <div className="relative w-full h-[400px] md:h-[500px] rounded-xl overflow-hidden mb-10">
+        <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-md mb-10">
           <Image src={post.coverImage || "images/week 1/W1I3.jpg"} alt={post.title} fill className="object-cover" priority />
         </div>
 
@@ -113,7 +113,7 @@ export default function WeeklyBlogPostPage({ params }: { params: { slug: string 
             {relatedPosts.map((relatedPost) => (
               <div key={relatedPost.id} className="group">
                 <Link href={`/weekly-blog/${relatedPost.slug}`}>
-                  <div className="relative w-full h-[180px] rounded-xl overflow-hidden mb-3">
+                  <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-md mb-3">
                     <Image
                       src={relatedPost.coverImage || "/placeholder.svg"}
                       alt={relatedPost.title}

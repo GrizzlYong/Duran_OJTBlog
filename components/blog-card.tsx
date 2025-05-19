@@ -14,7 +14,7 @@ export function BlogCard({ title, excerpt, imageSrc, date, slug }: BlogCardProps
   return (
     <div className="group">
       <Link href={`/blog/${slug}`}>
-        <div className="relative w-full h-[250px] overflow-hidden rounded-xl shadow-md mb-4">
+        <div className="relative w-full aspect-square overflow-hidden rounded-xl shadow-md mb-4">
           <Image
             src={imageSrc || "/placeholder.svg?height=500&width=500"}
             alt={title}

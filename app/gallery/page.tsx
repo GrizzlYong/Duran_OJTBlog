@@ -106,7 +106,7 @@ export default function GalleryPage() {
       >
         {filteredImages.map((image) => (
           <motion.div key={image.id} className="group" variants={itemVariants}>
-            <div className="relative aspect-square overflow-hidden rounded-lg shadow-md">
+            <div className="relative w-full aspect-square overflow-hidden rounded-lg shadow-md">
               <Image
                 src={image.src || "/placeholder.svg"}
                 alt={image.alt}

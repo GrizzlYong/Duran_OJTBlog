@@ -18,7 +18,7 @@ export default function ProjectsPage() {
         {featuredProjects.map((project) => (
           <div key={project.id} className="group">
             <Link href={`/projects/${project.slug}`}>
-              <div className="relative w-full h-[300px] overflow-hidden rounded-xl shadow-md mb-4">
+              <div className="relative w-full aspect-square overflow-hidden rounded-xl shadow-md mb-4">
                 <Image
                   src={project.imageSrc || "/placeholder.svg"}
                   alt={project.title}

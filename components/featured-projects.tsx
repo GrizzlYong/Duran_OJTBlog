@@ -12,7 +12,7 @@ export function FeaturedProjects() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         {featuredProjects.slice(0, 2).map((project) => (
           <div key={project.id} className="group">
-            <div className="relative w-full h-[300px] overflow-hidden rounded-xl shadow-md mb-4">
+            <div className="relative w-full aspect-square overflow-hidden rounded-xl shadow-md mb-4">
               <Image
                 src={project.imageSrc || "/placeholder.svg"}
                 alt={project.title}

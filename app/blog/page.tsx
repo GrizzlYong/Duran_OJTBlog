@@ -13,7 +13,7 @@ export default function BlogPage() {
           {weeklyBlogPosts.map((post) => (
             <div key={post.id} className="flex flex-col md:flex-row gap-6 border-b pb-8">
               <div className="md:w-1/3">
-                <div className="relative w-full h-[200px] rounded-xl overflow-hidden">
+                <div className="relative w-full aspect-square rounded-xl overflow-hidden">
                   <Image src={post.coverImage || "/placeholder.svg"} alt={post.title} fill className="object-cover" />
                 </div>
               </div>
