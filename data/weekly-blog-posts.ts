@@ -80,14 +80,6 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
 
       <blockquote>"A week of hard work is a week closer to its goals."</blockquote>
 
-      <div class="relative h-80 rounded-lg overflow-hidden my-8">
-        <img
-          src="/images/week 1/low.jpg?height=800&width=1200&text=Featured Example"
-          alt="Featured example"
-          class="object-cover"
-        />
-      </div>
-
       <h2>Further Exploration</h2>
 
      <p>As my OJT progresses, I'm eager to dive deeper into UI/UX design principles and front-end development techniques. I plan to explore new tools, frameworks, and best practices to enhance my skills and contribute more effectively to the projects. Additionally, I want to learn more about the full software development lifecycle and how IT teams coordinate across departments to deliver seamless solutions. This ongoing exploration will help me become a well-rounded IT professional.</p>
@@ -138,14 +130,6 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
       </div>
 
       <blockquote>"Time doesn't need more hours—it needs more intention."— Avery Miles</blockquote>
-
-      <div class="relative h-80 rounded-lg overflow-hidden my-8">
-        <img
-          src="/images/week 2/COVW2.jpg?height=800&width=1200&text=Featured Example"
-          alt="Featured example"
-          class="object-cover"
-        />
-      </div>
 
       <h2>Further Exploration</h2>
             <p>Time management is more than just checking tasks off a list — it's about aligning your time with your goals and values. If you find yourself overwhelmed or constantly behind, consider exploring these ideas:</p>
@@ -206,14 +190,6 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
 
       <blockquote>"Communication is the real work of leadership."— Nitin Nohria</blockquote>
 
-      <div class="relative h-80 rounded-lg overflow-hidden my-8">
-        <img
-          src="/images/week 3/w3low.jpg?height=800&width=1200&text=Featured Example"
-          alt="Featured example"
-          class="object-cover"
-        />
-      </div>
-
       <h2>Further Exploration</h2>
 
       <p>
@@ -243,7 +219,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     slug: "storytelling-through-sequence",
     topics: ["Storytelling", "Editing", "Presentation"],
     content: `
-      <p>We met people from different DOST V units and truly felt the spirit of unity. Saying “ONE DOST” wasn’t just a phrase — it reflected the teamwork, support, and shared purpose we experienced. It reminded us that we’re part of something bigger.</p>
+      <p>We met people from different DOST V units and truly felt the spirit of unity. Saying "ONE DOST" wasn't just a phrase — it reflected the teamwork, support, and shared purpose we experienced. It reminded us that we're part of something bigger.</p>
       <br>
       <h2>Meeting New People Means More Coding</h2>
         <p>
@@ -278,22 +254,15 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
         </div>
       </div>
         <blockquote>
-          “The people who are crazy enough to think they can change the world are the ones who do.”  
+          "The people who are crazy enough to think they can change the world are the ones who do."  
           <footer>– Steve Jobs</footer>
         </blockquote>
-      <div class="relative h-80 rounded-lg overflow-hidden my-8">
-        <img
-          src="/images/week 4/bins.jpg?height=800&width=1200&text=Featured Example"
-          alt="Featured example"
-          class="object-cover"
-        />
-      </div>
     `,
   },
   {
     id: 5,
     title: "OJT Ep. 5: Queens and Princesses!",
-    excerpt: "A glimpse into how DOST celebrated Women’s Month with pampering, fun, and continued dedication from its inspiring female team.",
+    excerpt: "A glimpse into how DOST celebrated Women's Month with pampering, fun, and continued dedication from its inspiring female team.",
     coverImage: "/images/week 5/celeb.jpg?height=600&width=1200&text=Portraiture",
     date: "March 24-28, 2025",
     readTime: "3 min read",
@@ -310,7 +279,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
       
       <p>The DOST lobby was buzzing with energy thanks to several booths selling different products — from tasty snacks to unique finds — giving the space a lively mini-market feel that added to the festive spirit.
       <br>
-      Even with all the fun, the work didn’t stop. We stayed focused and continued developing the systems assigned to us with the same dedication. This week was a great reminder that caring for people and progress go hand in hand.</p>
+      Even with all the fun, the work didn't stop. We stayed focused and continued developing the systems assigned to us with the same dedication. This week was a great reminder that caring for people and progress go hand in hand.</p>
       <br>
       <div class="grid grid-cols-2 gap-4 my-8">
         <div class="relative h-60 rounded-lg overflow-hidden">
@@ -355,14 +324,6 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
       </div>
 
       <blockquote>"Progress celebrated, momentum gained."</blockquote>
-
-      <div class="relative h-80 rounded-lg overflow-hidden my-8">
-        <img
-          src="/images/week 5/lowc.jpg?height=800&width=1200&text=Featured Example"
-          alt="Featured example"
-          class="object-cover"
-        />
-      </div>
     `,
   },
   {
@@ -377,14 +338,14 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     slug: "landscape-mastery",
     topics: ["Momentum", "Growth", "Rhythm"],
     content: `
-      <p>At this point in our internship, tasks started to feel more natural. What was once unfamiliar has slowly become routine. From adjusting to the office environment to handling real responsibilities, I can say I’m starting to find my rhythm. Each task is no longer just a requirement, but a chance to improve, contribute, and grow. The momentum is real—and it’s energizing.</p>
+      <p>At this point in our internship, tasks started to feel more natural. What was once unfamiliar has slowly become routine. From adjusting to the office environment to handling real responsibilities, I can say I'm starting to find my rhythm. Each task is no longer just a requirement, but a chance to improve, contribute, and grow. The momentum is real—and it's energizing.</p>
       <br>
       <h2>Collaborating with Purpose</h2>
       
-      <p>Momentum isn’t just about individual pace—it’s about team chemistry. I’ve grown more comfortable working with other OJTs and full-time staff. Whether it’s through shared tasks, feedback sessions, or quick conversations, I’ve realized how important communication is in sustaining progress and avoiding burnout.</p>
+      <p>Momentum isn't just about individual pace—it's about team chemistry. I've grown more comfortable working with other OJTs and full-time staff. Whether it's through shared tasks, feedback sessions, or quick conversations, I've realized how important communication is in sustaining progress and avoiding burnout.</p>
       <BR>
       
-      <p>I’ve learned that collaboration isn’t just about working together—it’s about working together with purpose. Each task is an opportunity to learn, grow, and contribute. The more we work together, the more we can achieve. The momentum is real—and it’s energizing.</p>
+      <p>I've learned that collaboration isn't just about working together—it's about working together with purpose. Each task is an opportunity to learn, grow, and contribute. The more we work together, the more we can achieve. The momentum is real—and it's energizing.</p>
       
     <div class="grid grid-cols-2 gap-4 my-8">
         <div class="relative h-80 rounded-lg overflow-hidden">
@@ -417,13 +378,13 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     topics: ["Street", "Candid", "Urban"],
     content: `
       <h2>Nonstop Development Mode</h2>
-      <p>As this phase of the internship unfolded, I found myself deep in continuous development work. The projects I’m handling demanded consistent focus, and I embraced the momentum by improving not only my coding but also my ability to adapt to new requirements. Each day brought new challenges, and I began to apply a more professional approach when planning and executing development tasks.</p> 
+      <p>As this phase of the internship unfolded, I found myself deep in continuous development work. The projects I'm handling demanded consistent focus, and I embraced the momentum by improving not only my coding but also my ability to adapt to new requirements. Each day brought new challenges, and I began to apply a more professional approach when planning and executing development tasks.</p> 
       <br>
       <p>Alongside development, I took on several design requests from different teams within the department. From user interfaces to visual assets, I learned to handle quick turnarounds while maintaining quality. This taught me how to communicate better with clients, understand their needs, and translate those into clean, purposeful designs—all under time constraints.</p>
       
     <br>
       
-      <p>Another unexpected but rewarding part of this phase was assisting walk-in clients. Whether they needed technical support or general guidance, I stepped up to help, which improved my soft skills and confidence in dealing with people professionally. It reminded me that working in IT isn't just about screens and systems—it’s also about being of service.</p>
+      <p>Another unexpected but rewarding part of this phase was assisting walk-in clients. Whether they needed technical support or general guidance, I stepped up to help, which improved my soft skills and confidence in dealing with people professionally. It reminded me that working in IT isn't just about screens and systems—it's also about being of service.</p>
 
       <div class="grid grid-cols-2 gap-4 my-8">
         <div class="relative h-60 rounded-lg overflow-hidden">
@@ -504,11 +465,11 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
       
       <br>
       
-      <p>We were also assigned specific roles for the event itself. I was placed on the media team, where I was given the responsibility of documenting the event through photography. To help us get ready, we had a short hands-on practice session by covering an ongoing conference inside the DOST conference room. This gave me the chance to familiarize myself with the setup, find the best angles, and understand the pacing of event documentation—something I haven’t done much of before, but now really enjoy.</p>
+      <p>We were also assigned specific roles for the event itself. I was placed on the media team, where I was given the responsibility of documenting the event through photography. To help us get ready, we had a short hands-on practice session by covering an ongoing conference inside the DOST conference room. This gave me the chance to familiarize myself with the setup, find the best angles, and understand the pacing of event documentation—something I haven't done much of before, but now really enjoy.</p>
       
       <br>
       
-      <p>Aside from that, the whole team was involved in collaborative efforts to print and sort event brochures and materials. It was a refreshing change of pace and a great opportunity to work closely with fellow interns and staff members outside the usual technical environment. This week made me realize that being part of a team also means being flexible and ready to help where needed, especially during big events. It’s all part of the learning journey!</p>
+      <p>Aside from that, the whole team was involved in collaborative efforts to print and sort event brochures and materials. It was a refreshing change of pace and a great opportunity to work closely with fellow interns and staff members outside the usual technical environment. This week made me realize that being part of a team also means being flexible and ready to help where needed, especially during big events. It's all part of the learning journey!</p>
     
 
       <div class="grid grid-cols-2 gap-4 my-8">
@@ -556,7 +517,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
       
       <br>
       
-      <p>What made it even more memorable was having the opportunity to witness some of the DOST regional directors and leaders in person. We got to meet the DOST Undersecretary (USEC) and listen to talks that highlighted groundbreaking ideas and forward-thinking innovations. Being in a room full of professionals with decades of experience and incredible achievements gave me chills. I couldn’t help but feel inspired by their passion and dedication to their work — it was like catching a glimpse of the future I want to work toward.</p>
+      <p>What made it even more memorable was having the opportunity to witness some of the DOST regional directors and leaders in person. We got to meet the DOST Undersecretary (USEC) and listen to talks that highlighted groundbreaking ideas and forward-thinking innovations. Being in a room full of professionals with decades of experience and incredible achievements gave me chills. I couldn't help but feel inspired by their passion and dedication to their work — it was like catching a glimpse of the future I want to work toward.</p>
       
       <br>
       <p>This environment was completely new to me. As someone still starting out, it felt surreal to be part of something so important — not just as a spectator, but as someone actively contributing behind the scenes. It reminded me that growth doesn't always come from the comfort of a desk or a code editor — sometimes, it comes from stepping into unfamiliar spaces and embracing new roles. This week left me with more than just experience; it left me with motivation. I now carry a stronger sense of purpose and a clearer picture of the kind of professional I want to become.</p>
@@ -594,124 +555,115 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
           />
         </div>
       </div>
-
-
-      <div class="relative h-80 rounded-lg overflow-hidden my-8">
-        <img
-          src="/images/week 10/low.jpg?height=800&width=1200&text=Featured Example"
-          alt="Featured example"
-          class="object-cover"
-        />
-      </div>
-
     `,
   },
   {
     id: 11,
-    title: "OJT Ep. 11: Lorem Ipsum",
+    title: "OJT Ep. 11: Free Time",
     excerpt:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    coverImage: "/placeholder.svg?height=600&width=1200&text=Still Life",
-    date: "May, 2025",
-    readTime: "8 min read",
-    author: "Alex Morgan",
+      "At the time of this training, I was already feeling like I was almost there. I was able to contribute to the team and I was able to learn a lot from the mentors.",
+    coverImage: "/images/week 11/w11cover.jpg?height=600&width=1200&text=Landscape Photography",
+    date: "May 5-9, 2025",
+    readTime: "3 min read",
+    author: "Maidon Jeho G. Duran",
     slug: "creative-still-life",
-    topics: ["Still Life", "Composition", "Lighting"],
+    topics: ["Workshop", "Polishing", "Training"],
     content: `
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p>In the last week of our training, we were given the opportunity to attend a workshopd. The workshop was led by a mentor from the department and it was a great opportunity to learn from someone who has a lot of experience in the field.</p>
 
-
+      <br>
       
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p>As we dont do anything much, we were tasked outside the office to assist other units.</p>
 
       <div class="grid grid-cols-2 gap-4 my-8">
         <div class="relative h-60 rounded-lg overflow-hidden">
           <img
-            src="/placeholder.svg?height=500&width=500&text=Example 1"
+            src="/images/week 11/workshop.jpg?height=500&width=500&text=Example 1"
             alt="Example image 1"
             class="object-cover"
           />
         </div>
         <div class="relative h-60 rounded-lg overflow-hidden">
           <img
-            src="/placeholder.svg?height=500&width=500&text=Example 2"
+            src="/images/week 11/w11.jpg?height=500&width=500&text=Example 2"
             alt="Example image 2"
             class="object-cover"
           />
         </div>
       </div>
 
-      <blockquote>"Photography is the story I fail to put into words." — Destin Sparks</blockquote>
 
       <div class="relative h-80 rounded-lg overflow-hidden my-8">
         <img
-          src="/placeholder.svg?height=800&width=1200&text=Featured Example"
+          src="/images/week 11/carry.jpg?height=800&width=1200&text=Featured Example"
           alt="Featured example"
           class="object-cover"
         />
       </div>
 
->
-
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Here, we were tasked to assist the other unit in their event. We were tasked to print brochures and other materials for the event.
       </p>
     `,
   },
   {
     id: 12,
-    title: "OJT Ep. 12: Last Week",
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    coverImage: "/placeholder.svg?height=600&width=1200&text=Long Exposure",
-    date: "May 2025",
+    title: "OJT Ep. 12: Polishing",
+    excerpt: "Finalizing our OJT, we deployed our systems and prepared for the last week.",
+    coverImage: "/images/week 12/week12.jpg",
+    date: "May 12-16, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
     slug: "long-exposure-magic",
     topics: ["Technique", "Time", "Motion"],
     content: `
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      
-     
-      
-      <h2>Headline</h2>
-      
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
+      <p>This week was all about polishing and finalizing our work as our OJT journey neared its end. With just one more week to go, we took time to compute our remaining hours and made sure we were on track to complete our requirements. The highlight of the week was successfully deploying both the Customer Satisfaction Feedback (CSF) system and the Appointment System. Seeing our projects go live was incredibly rewarding—it marked the culmination of weeks of effort, collaboration, and learning. As we wrapped up final touches and prepared documentation, there was a sense of accomplishment and excitement for the finish line ahead.</p>
+    `,
+  },
+  {
+    id: 13,
+    title: "OJT Ep. 13: Reflection & Farewell",
+    excerpt: "Preparing for our final project presentation and reflecting on our OJT journey.",
+    coverImage: "/images/week 13/farewell.jpg?height=600&width=1200&text=Farewell",
+    date: "May 19-23, 2025",
+    readTime: "4 min read",
+    author: "Maidon Jeho G. Duran",
+    slug: "reflection-farewell",
+    topics: ["Reflection", "Growth", "Farewell"],
+    content: `
+      <p>The final week was filled with anticipation and last-minute preparations as we geared up for the culmination of our OJT. With all requirements nearly complete, our focus shifted to refining our project presentations and ensuring every detail was ready for the big day. We were excited—and a bit nervous—knowing that on June 5, we would be presenting our deployed systems to an audience that included invited guests at the DOST V office. This upcoming event felt like both a celebration of our hard work and a chance to showcase what we had accomplished as a team. As we rehearsed and finalized our slides, the reality of finishing our OJT truly began to sink in.</p>
+      <br>
+      <p>The final week of my OJT was a time for reflection, gratitude, and heartfelt goodbyes. Looking back, I realize how much I've grown—not just as a developer and designer, but as a person. The challenges, the teamwork, and the mentorship I received have all left a lasting impact on me.</p>
+      <br>
+      <h2>Looking Back</h2>
+      <p>From the first day of introductions to the last day of project handovers, every moment was a learning opportunity. I'm grateful for the trust my mentors placed in me, the camaraderie with my fellow interns, and the chance to contribute to meaningful projects.</p>
+      <br>
+      <h2>Lessons Learned</h2>
+      <ul>
+        <li><strong>Adaptability:</strong> Embracing new tasks and environments helped me become more flexible and resourceful.</li>
+        <li><strong>Teamwork:</strong> Collaborating with diverse teams taught me the value of communication and shared goals.</li>
+        <li><strong>Continuous Learning:</strong> Every challenge was a chance to learn something new, whether technical or personal.</li>
+      </ul>
+      <br>
+      <h2>Farewell, but Not Goodbye</h2>
+      <p>As I say farewell to DOST V, I carry with me not just skills, but memories and friendships that will last a lifetime. I'm excited for what comes next, knowing that this experience has prepared me for future challenges.</p>
       <div class="grid grid-cols-2 gap-4 my-8">
         <div class="relative h-60 rounded-lg overflow-hidden">
           <img
-            src="/placeholder.svg?height=500&width=500&text=Example 1"
-            alt="Example image 1"
+            src="/images/week 13/group.jpg"
+            alt="Farewell group photo"
             class="object-cover"
           />
         </div>
         <div class="relative h-60 rounded-lg overflow-hidden">
           <img
-            src="/placeholder.svg?height=500&width=500&text=Example 2"
-            alt="Example image 2"
+            src="/images/week 13/mentor.jpg"
+            alt="Mentor photo"
             class="object-cover"
           />
         </div>
       </div>
-
-      <blockquote>"Photography is the story I fail to put into words." — Destin Sparks</blockquote>
-
-      <div class="relative h-80 rounded-lg overflow-hidden my-8">
-        <img
-          src="/placeholder.svg?height=800&width=1200&text=Featured Example"
-          alt="Featured example"
-          class="object-cover"
-        />
-      </div>
-
-      <h2>Further Exploration</h2>
-
-      <p>
-       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </p>
-      <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </p>
+      <blockquote>"Every ending is a new beginning." — Proverb</blockquote>
     `,
   },
 ]

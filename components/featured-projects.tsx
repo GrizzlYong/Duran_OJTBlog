@@ -14,7 +14,7 @@ export function FeaturedProjects() {
           <div key={project.id} className="group">
             <div className="relative w-full h-[300px] overflow-hidden rounded-xl shadow-md mb-4">
               <Image
-                src={project.imageSrc || "/placeholder.svg"}
+                src={'/images/week 11/rstl.png'}
                 alt={project.title}
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-105"
@@ -36,13 +36,6 @@ export function FeaturedProjects() {
                 </span>
               ))}
             </div>
-
-            <Link
-              href={`/projects/${project.slug}`}
-              className="inline-flex items-center text-sm text-gray-900 mt-1 hover:underline"
-            >
-              View Project <ArrowRight className="ml-1 h-3 w-3" />
-            </Link>
           </div>
         ))}
       </div>

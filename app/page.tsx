@@ -2,7 +2,6 @@ import Image from "next/image"
 import Link from "next/link"
 import { ArrowRight } from "lucide-react"
 import { FeaturedProjects } from "@/components/featured-projects"
-import { WeeklyFeaturedGallery } from "@/components/weekly-featured-gallery"
 import { WeeklyBlogHighlight } from "@/components/weekly-blog-highlight"
 import { RolesExplored } from "@/components/roles-explored"
 
@@ -83,9 +82,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* Weekly Featured Gallery */}
-      <WeeklyFeaturedGallery />
 
       {/* Featured Projects */}
       <FeaturedProjects />

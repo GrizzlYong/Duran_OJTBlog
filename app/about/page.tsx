@@ -102,44 +102,6 @@ export default function AboutPage() {
             </div>
             
           </div>
-          <div className="flex flex-col md:flex-row md:items-center gap-6">
-            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
-              <Image
-                src="/placeholder.svg?height=300&width=400&text=Exhibition 3"
-                alt="Exhibition"
-                fill
-                className="object-cover"
-              />
-            </div>
-            <div>
-            <h4 className="text-lg font-medium mb-1 text-gray-900">(Upcoming Workshop)</h4>
-            <p className="text-sm text-gray-600 mb-2">May 22, 2025</p>
-              <p className="text-sm text-gray-700">Lecture by: Sir Jee</p>
-              <p className="text-sm text-gray-600 mt-2">
-              Lorem Ipsum
-              </p>
-            </div>
-            
-          </div>
-          <div className="flex flex-col md:flex-row md:items-center gap-6">
-            <div className="relative w-full md:w-48 h-32 overflow-hidden rounded-lg shadow-sm">
-              <Image
-                src="/placeholder.svg?height=300&width=400&text=Exhibition 3"
-                alt="Exhibition"
-                fill
-                className="object-cover"
-              />
-            </div>
-            <div>
-              <h4 className="text-lg font-medium mb-1 text-gray-900">(Upcoming Workshop)</h4>
-              <p className="text-sm text-gray-600 mb-2">May 22, 2025</p>
-              <p className="text-sm text-gray-700">Lecture by: Sir Guff</p>
-              <p className="text-sm text-gray-600 mt-2">
-                Lorem Ipsum
-              </p>
-            </div>
-            
-          </div>
         </div>
       </div>
 
