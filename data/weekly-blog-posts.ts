@@ -23,7 +23,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "Feb 24 - 28, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "light-and-shadow",
+    slug: "hi-im-don-officially-a-dost-v-intern",
     topics: ["Roles", "Project", "Tasks"],
     content: `
       <p>This week also marked our official start as OJT interns at DOST V. We introduced ourselves to the team and shared how we preferred to be called. To get familiar with our new environment, we took time to roam around the facility, learning about the workplace layout, the rules and regulations, and the daily routines. During the orientation, we also met two fellow OJT students from BU Polangui, both taking up Information Systems. It was great connecting with others on a similar journey and starting to build a sense of community in our new workspace.</p> 
@@ -94,7 +94,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "May 3-7, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "composition-fundamentals",
+    slug: "catching-the-flow",
     topics: ["Visitation", "Behavior", "Grind"],
     content: `
       <p>This week, our OJT coordinators visited the office and had a conversation with our mentors about the tasks we've been doing and how we've been adjusting to the internship environment. It was a good opportunity for both sides to share feedback — our mentors gave updates on our progress, while we got to reflect on what we've learned so far. The visit made things feel more official and reminded us that this journey is not just about work, but growth. It also motivated us to keep improving and make the most out of this experience.</p>
@@ -154,7 +154,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "March 10-14,2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "color-theory",
+    slug: "communication",
     topics: ["Collaboration", "Details", "Mood"],
     content: `
       <p>Meeting and communicating with end users was definitely one of the highlights of our internship so far. At first, we were a bit nervous — after all, these are the people who will actually use what we're designing! But once the conversations started, it quickly became clear how valuable their feedback is.</p>
@@ -216,7 +216,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "March 17-21, 2025",
     readTime: "9 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "storytelling-through-sequence",
+    slug: "one-dost",
     topics: ["Storytelling", "Editing", "Presentation"],
     content: `
       <p>We met people from different DOST V units and truly felt the spirit of unity. Saying "ONE DOST" wasn't just a phrase — it reflected the teamwork, support, and shared purpose we experienced. It reminded us that we're part of something bigger.</p>
@@ -267,7 +267,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "March 24-28, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "art-of-portraiture",
+    slug: "queens-and-princesses",
     topics: ["Women", "Celebration", "Fun"],
     content: `
       <p>This week, we got to experience the fun and pampering side of DOST V's Women's Month celebration. It was a great way to show appreciation for the hard work and dedication of our female colleagues, and it also gave us a chance to bond with them outside of work.</p>
@@ -335,7 +335,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "Mar. 31 - Apr. 4, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "landscape-mastery",
+    slug: "momentum",
     topics: ["Momentum", "Growth", "Rhythm"],
     content: `
       <p>At this point in our internship, tasks started to feel more natural. What was once unfamiliar has slowly become routine. From adjusting to the office environment to handling real responsibilities, I can say I'm starting to find my rhythm. Each task is no longer just a requirement, but a chance to improve, contribute, and grow. The momentum is real—and it's energizing.</p>
@@ -374,7 +374,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "April 7-11,2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "street-photography-essentials",
+    slug: "stability",
     topics: ["Street", "Candid", "Urban"],
     content: `
       <h2>Nonstop Development Mode</h2>
@@ -420,7 +420,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "April 14-16, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "macro-photography",
+    slug: "hands-on",
     topics: ["Hardware", "Detail", "Technique"],
     content: `
       <h2>Troubleshooting</h2>
@@ -458,7 +458,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "April 17-21, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "black-and-white-vision",
+    slug: "preparation",
     topics: ["Roles", "Event", "Preparation"],
     content: `
       <p>Week 9 took us into a different kind of experience as we entered the preparation phase for an upcoming event hosted by the department. Unlike our usual routine filled with coding and development tasks, our mentor asked us to temporarily pause our main work and focus on supporting the logistical needs of the event. This included printing brochures, packing materials, and preparing other important items needed to ensure everything runs smoothly.</p>
@@ -506,7 +506,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "April 27 - May 2, 2025",
     readTime: "7 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "art-of-self-portraiture",
+    slug: "innovation-summit-2025",
     topics: ["Science", "Technology", "Event"],
     content: `
       <p>Week 10 was a big moment for all of us as we finally put our preparations into action for the much-awaited Innovation Summit 2025. This two-day event was on a different level — not only in scale but also in significance. Delegates and officials from various DOST regional offices came together, making it a true convergence of minds, innovation, and collaboration. The atmosphere was exciting, fast-paced, and a bit overwhelming — in the best way possible.</p>
@@ -566,7 +566,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "May 5-9, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "creative-still-life",
+    slug: "free-time",
     topics: ["Workshop", "Polishing", "Training"],
     content: `
       <p>In the last week of our training, we were given the opportunity to attend a workshopd. The workshop was led by a mentor from the department and it was a great opportunity to learn from someone who has a lot of experience in the field.</p>
@@ -614,7 +614,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     date: "May 12-16, 2025",
     readTime: "3 min read",
     author: "Maidon Jeho G. Duran",
-    slug: "long-exposure-magic",
+    slug: "polishing",
     topics: ["Technique", "Time", "Motion"],
     content: `
       <p>This week was all about polishing and finalizing our work as our OJT journey neared its end. With just one more week to go, we took time to compute our remaining hours and made sure we were on track to complete our requirements. The highlight of the week was successfully deploying both the Customer Satisfaction Feedback (CSF) system and the Appointment System. Seeing our projects go live was incredibly rewarding—it marked the culmination of weeks of effort, collaboration, and learning. As we wrapped up final touches and prepared documentation, there was a sense of accomplishment and excitement for the finish line ahead.</p>
