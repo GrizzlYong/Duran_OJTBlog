@@ -215,7 +215,7 @@ export const weeklyBlogPosts: WeeklyBlogPost[] = [
     coverImage: "/images/week 4/w3cover.jpg?height=600&width=1200&text=Visual Storytelling",
     date: "March 17-21, 2025",
     readTime: "9 min read",
-    author: "Alex Morgan",
+    author: "Maidon Jeho G. Duran",
     slug: "storytelling-through-sequence",
     topics: ["Storytelling", "Editing", "Presentation"],
     content: `
